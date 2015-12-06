@@ -28,5 +28,5 @@ Yarp.
 ## Screenshots ##
 
 ### 1. Yep, these are the headers. ###
-![Yep, these are the headers.](http://s.wordpress.org/extend/plugins/wp-x-mullet/screenshot-1.png)
+![Yep, these are the headers.](screenshot-1.png)
 
